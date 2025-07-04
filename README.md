@@ -22,7 +22,7 @@ A comprehensive healthcare question-answering system built with LangChain, featu
 
 1. Clone the repository and install dependencies:
 ```bash
-git clone <repository-url>
+git clone https://github.com/xempie/healthcare-qa-bot.git
 cd healthcare-qa-bot
 pip install -r requirements.txt
 ```
